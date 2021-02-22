@@ -8,6 +8,9 @@ jupyterlab = "*"
 ipymd = "*"
 pandas = "*"
 numpy = "*"
+sympy = "*"
+scipy = "*"
+matplotlib = "*"
 
 [dev-packages]
 
