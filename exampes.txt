@@ -1,0 +1,8 @@
+Plots
+
+graphs y=f(x), with plot
+parametric curves, with plot_parametric
+implicit curves, with plot_implicit
+3D graphs z=f(x, y), with plot3d
+parametric curves in 3D, with plot3d_parametric_line
+parametric surface, with plot3d_parametric_surface
