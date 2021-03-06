@@ -11,6 +11,7 @@ numpy = "*"
 sympy = "*"
 scipy = "*"
 matplotlib = "*"
+pillow = "*"
 
 [dev-packages]
 

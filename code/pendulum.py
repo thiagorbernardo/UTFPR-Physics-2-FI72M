@@ -71,7 +71,7 @@ for i in t:
         pos_x = x0 + l*math.sin(math.radians(180) + s)
         pos_y = y0 + l*math.cos(math.radians(180) + s)
 
-        filename = '%05d.png' % count
+        filename = 'assets/pendulum/pendulum_%05d.png' % count
         count = count + 1
         plt.figure()
         plt.plot([-0.25, 0.25], [0, 0], linewidth=15)
@@ -81,5 +81,9 @@ for i in t:
         plt.xlim([-4, 4])
         plt.ylim([-5, 1])
         plt.grid(True)
-        plt.title('pendulum motion with damping')
-        plt.savefig(filename)
+        plt.title('Pêndulo Simples')
+        if(count < 153):
+            plt.savefig(filename)
+        print('count:', count)
+        if(count == 180):
+            break
