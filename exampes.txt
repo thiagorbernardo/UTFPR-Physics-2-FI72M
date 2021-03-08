@@ -1,4 +1,4 @@
-Plots
+Plots Sympy
 
 graphs y=f(x), with plot
 parametric curves, with plot_parametric
