@@ -17,6 +17,10 @@ Abrir a pasta [notebooks/](notebooks/) e escolher um Notebook.ipynb, ou escolher
 1. [Aula 1 - MHS](notebooks/1.MHS.ipynb)
 2. [Aula 2 - Energia no MHS e Pêndulo Simples](notebooks/2.EnergyMHS_Pendulum.ipynb)
 3. [Aula 3 - Pêndulo físico e de torção](notebooks/3.Pendulums.ipynb)
+4. [Aula 4 - Oscilações](notebooks/4.Oscillations.ipynb)
+5. [Aula 5 - Ondas 1 - Fundamentos](notebooks/5.Ondas1_Fundamentals.ipynb)
+6. [Aula 6 - Ondas 1 - Velocidade](notebooks/6.Ondas1_Velocity.ipynb)
+7. [Aula 7 - Ondas 1 - Interferência](notebooks/7.Ondas1_Interference.ipynb)
 
 
 <div align="center">
