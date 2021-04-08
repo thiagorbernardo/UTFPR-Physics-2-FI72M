@@ -21,6 +21,10 @@ Abrir a pasta [notebooks/](notebooks/) e escolher um Notebook.ipynb, ou escolher
 5. [Aula 5 - Ondas 1 - Fundamentos](notebooks/5.Ondas1_Fundamentals.ipynb)
 6. [Aula 6 - Ondas 1 - Velocidade](notebooks/6.Ondas1_Velocity.ipynb)
 7. [Aula 7 - Ondas 1 - Interferência](notebooks/7.Ondas1_Interference.ipynb)
+8. [Aula 8 - Ondas 1 - Interferência](notebooks/8.Ondas1_Standing.ipynb.ipynb)
+9. [Aula 9 - Ondas 1 - Interferência](notebooks/9.Ondas2_Longitudinal.ipynb.ipynb)
+10. [Aula 10 - Ondas 1 - Interferência](notebooks/10.Ondas2_Interference.ipynb.ipynb)
+11. [Aula 11 - Ondas 1 - Interferência](notebooks/11.Ondas2_SoundLevel.ipynb.ipynb)
 
 
 <div align="center">
