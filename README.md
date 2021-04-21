@@ -28,7 +28,7 @@ Abrir a pasta [notebooks/](notebooks/) e escolher um Notebook.ipynb, ou escolher
 12. [Aula 12 - Termodinâmica - Introdução](notebooks/12.Thermodynamics_Introdution.ipynb)
 13. [Aula 13 - Termodinâmica - Absorção de Calor](notebooks/13.Thermodynamics_HeatAbsorption.ipynb)
 14. [Aula 14 - Termodinâmica - Calor e Trabalho](notebooks/14.Thermodynamics_WorkHeat.ipynb)
-15. [Aula 15 - Termodinâmica - Transferência de Calor](notebooks/15.15.Thermodynamics_HeatTransfer.ipynb)
+15. [Aula 15 - Termodinâmica - Transferência de Calor](notebooks/15.Thermodynamics_HeatTransfer.ipynb)
 
 
 <div align="center">
