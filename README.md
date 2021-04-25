@@ -31,6 +31,7 @@ Abrir a pasta [notebooks/](notebooks/) e escolher um Notebook.ipynb, ou escolher
 15. [Aula 15/1 - Termodinâmica - Transferência de Calor](notebooks/15.Thermodynamics_HeatTransfer.ipynb)
 15. [Aula 15/2 - Termodinâmica - Teoria Cinética dos Gases](notebooks/15.1.Thermodynamics_GasesKineticTheory.ipynb)
 16. [Aula 16 - Termodinâmica - Pressão e Temperatura](notebooks/16.Thermodynamics_PressureAndTemperature.ipynb)
+17. [Aula 17 - Termodinâmica - Graus de liberdade e calores específicos molares](notebooks/17.Thermodynamics_LibertyDegrees.ipynb)
 
 
 <div align="center">
