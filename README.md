@@ -33,7 +33,7 @@ Abrir a pasta [notebooks/](notebooks/) e escolher um Notebook.ipynb, ou escolher
 16. [Aula 16 - Termodinâmica - Pressão e Temperatura](notebooks/16.Thermodynamics_PressureAndTemperature.ipynb)
 17. [Aula 17 - Termodinâmica - Graus de liberdade e calores específicos molares](notebooks/17.Thermodynamics_LibertyDegrees.ipynb)
 18. [Aula 18 - Termodinâmica - Entropia e 2° Lei](notebooks/18.Thermodynamics_Carnot.ipynb)
-18. [Aula 19 - Termodinâmica - Entropia](notebooks/19.Thermodynamics_Entropy.ipynb)
+19. [Aula 19 - Termodinâmica - Entropia](notebooks/19.Thermodynamics_Entropy.ipynb)
 
 
 <div align="center">
