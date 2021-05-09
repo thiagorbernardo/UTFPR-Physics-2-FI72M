@@ -14,6 +14,8 @@ Sou Thiago Ramos Bernardo, da Engenharia de Computação, e este é o repositór
 Abrir a pasta [notebooks/](notebooks/) e escolher um Notebook.ipynb, ou escolher a aula abaixo:
 
 
+### Ondas
+
 1. [Aula 1 - MHS](notebooks/1.MHS.ipynb)
 2. [Aula 2 - Energia no MHS e Pêndulo Simples](notebooks/2.EnergyMHS_Pendulum.ipynb)
 3. [Aula 3 - Pêndulo físico e de torção](notebooks/3.Pendulums.ipynb)
@@ -25,15 +27,22 @@ Abrir a pasta [notebooks/](notebooks/) e escolher um Notebook.ipynb, ou escolher
 9. [Aula 9 - Ondas 2 - Longitudinais](notebooks/9.Ondas2_Longitudinal.ipynb)
 10. [Aula 10 - Ondas 2 - Interferência](notebooks/10.Ondas2_Interference.ipynb)
 11. [Aula 11 - Ondas 2 - Nível Sonoro](notebooks/11.Ondas2_SoundLevel.ipynb)
+
+### Termodinâmica
+
 12. [Aula 12 - Termodinâmica - Introdução](notebooks/12.Thermodynamics_Introdution.ipynb)
 13. [Aula 13 - Termodinâmica - Absorção de Calor](notebooks/13.Thermodynamics_HeatAbsorption.ipynb)
 14. [Aula 14 - Termodinâmica - Calor e Trabalho](notebooks/14.Thermodynamics_WorkHeat.ipynb)
 15. [Aula 15/1 - Termodinâmica - Transferência de Calor](notebooks/15.Thermodynamics_HeatTransfer.ipynb)
-15. [Aula 15/2 - Termodinâmica - Teoria Cinética dos Gases](notebooks/15.1.Thermodynamics_GasesKineticTheory.ipynb)
-16. [Aula 16 - Termodinâmica - Pressão e Temperatura](notebooks/16.Thermodynamics_PressureAndTemperature.ipynb)
-17. [Aula 17 - Termodinâmica - Graus de liberdade e calores específicos molares](notebooks/17.Thermodynamics_LibertyDegrees.ipynb)
-18. [Aula 18 - Termodinâmica - Máquinas térmicas](notebooks/18.Thermodynamics_Carnot.ipynb)
-19. [Aula 19 - Termodinâmica - Entropia](notebooks/19.Thermodynamics_Entropy.ipynb)
+16. [Aula 15/2 - Termodinâmica - Teoria Cinética dos Gases](notebooks/15.1.Thermodynamics_GasesKineticTheory.ipynb)
+17. [Aula 16 - Termodinâmica - Pressão e Temperatura](notebooks/16.Thermodynamics_PressureAndTemperature.ipynb)
+18. [Aula 17 - Termodinâmica - Graus de liberdade e calores específicos molares](notebooks/17.Thermodynamics_LibertyDegrees.ipynb)
+19. [Aula 18 - Termodinâmica - Máquinas térmicas](notebooks/18.Thermodynamics_Carnot.ipynb)
+20. [Aula 19 - Termodinâmica - Entropia](notebooks/19.Thermodynamics_Entropy.ipynb)
+
+### Gravitação
+
+21. [Aula 20 - Gravitação - Lei da Gravitação de Newton](notebooks/20.Gravitation_NewtonLaw.ipynb)
 
 
 <div align="center">
