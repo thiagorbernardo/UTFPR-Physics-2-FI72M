@@ -13,6 +13,7 @@ Sou Thiago Ramos Bernardo, da Engenharia de Computação, e este é o repositór
 
 Abrir a pasta [notebooks/](notebooks/) e escolher um Notebook.ipynb, ou escolher a aula abaixo:
 
+**RECOMENDO VISUALIZAR ESTES NOTEBOOKS USANDO O SITE https://nbviewer.jupyter.org/, POIS APRESENTAM MELHOR VISUALIZAÇÃO QUE O GITHUB**
 
 ### Ondas
 
