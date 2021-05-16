@@ -44,6 +44,8 @@ Abrir a pasta [notebooks/](notebooks/) e escolher um Notebook.ipynb, ou escolher
 ### Gravitação
 
 21. [Aula 20 - Gravitação - Lei da Gravitação de Newton](notebooks/20.Gravitation_NewtonLaw.ipynb)
+22. [Aula 21 - Gravitação - Energia Potencial Gravitacional](notebooks/21.Gravitation_PotentialEnergy.ipynb)
+23. [Aula 22 - Gravitação - Satélites: Órbitas e Energia](notebooks/22.Gravitation_Satellites.ipynb)
 
 
 <div align="center">
